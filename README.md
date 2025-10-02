@@ -92,7 +92,7 @@ languages = {
 | Language | Level | Proficiency |
 |----------|-------|-------------|
 | 🇪🇸 Spanish | Native | C2 |
-| 🇬🇧 English | Advanced | C1 (Listening/Reading), B2 (Speaking/Writing) |
+| 🇬🇧 English | Upper-Intermediate | C1 (Listening/Reading), B2 (Speaking/Writing) |
 
 ---
 
