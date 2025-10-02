@@ -1,4 +1,4 @@
-# Mario Mendoza | Software Developer 👨‍💻
+# Mario Mendoza | Software Developer | Quant 👨‍💻
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mariomendoza19-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mariomendoza19)
 [![Email](https://img.shields.io/badge/Email-mendozachaparro73%40gmail.com-red?style=flat&logo=gmail)](mailto:mendozachaparro73@gmail.com)
@@ -133,6 +133,8 @@ current_objectives = {
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mendo-005&layout=compact&theme=radical)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=Mendo-005&theme=radical)
+
 ---
 
 ## 📫 Get In Touch
@@ -147,7 +149,5 @@ I'm always interested in collaborating on innovative AI and automation projects.
 <div align="center">
 
 ### "Building the future of smart manufacturing, one algorithm at a time" 🤖
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Mendo-005.Mendo-005)
 
 </div>
