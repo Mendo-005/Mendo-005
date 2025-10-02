@@ -128,6 +128,7 @@ current_objectives = {
 ---
 
 ## 📊 GitHub Stats
+![snake gif](https://github.com/Mendo-005/Mendo-005/blob/output/github-contribution-grid-snake.svg)
 
 ![Mario's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mendo-005&show_icons=true&theme=radical)
 
