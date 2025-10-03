@@ -99,7 +99,7 @@ languages = {
 ## 🤝 Volunteering
 
 ### General Helper | Private School Mysen, Norway
-**August 2025 - Present | Norway**
+**August 2025 | Norway**
 
 - 🌱 Participated in sustainable transformation of old school facilities
 - 🌍 Contributed to eco-friendly project initiatives
